@@ -1,0 +1,8 @@
+# IDE specifics
+.vscode/
+
+# OS specifics
+.DS_STORE
+
+# .class directory
+bin/
