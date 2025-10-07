@@ -8,9 +8,11 @@
  * be added (enqueue) to the tail and removed (dequeue) from the head.
  * 
  * Common Operations:
- * - offer(element): enqueues an element to the tail of the queue.
- * - poll(): dequeues the element at the head of the queue.
+ * - enqueue(element): adds an element to the tail of the queue.
+ * - dequeue(): removes the element at the head of the queue.
  * - peek(): returns the element at the head of the queue without removing it.
+ * - isEmpty(): checks if the queue has any elements in it.
+ * - size(): returns the number of elements in the queue.
  * 
  * Real-world Examples:
  * - A line of people waiting at a ticket counter (first person in line gets served first).

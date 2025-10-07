@@ -8,16 +8,16 @@
  * and when you need one, you remove (pop) the top plate first.
  * 
  * Common operations:
- * - push(element): adds an element to the top of the stack
- * - pop(): removes and returns the element at the top of the stack
- * - peek(): returns the top element without removing it
- * - empty(): checks whether the stack has any elements
+ * - push(element): adds an element to the top of the stack.
+ * - pop(): removes and returns the element at the top of the stack.
+ * - peek(): returns the top element without removing it.
+ * - isEmpty(): checks whether the stack has any elements.
+ * - size(): returns the number of elements in the stack.
  * 
  * Real-world examples:
- * - Undo/Redo functionality in applications
- * - Call stack in programming languages
- * - Backtracking algorithms (like maze solving)
- * 
+ * - Undo/Redo functionality in applications.
+ * - Call stack in programming languages.
+ * - Backtracking algorithms (like maze solving).
  */
 
 import java.util.Stack;
